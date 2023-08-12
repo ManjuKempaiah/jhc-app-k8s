@@ -1,4 +1,4 @@
-  name: nodeapp
+name: nodeapp
 spec:
   replicas: 3
   strategy:
